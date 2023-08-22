@@ -1,2 +1,2 @@
 # StudentManagementSystem
- miniproject
+ MINIPROJECT
